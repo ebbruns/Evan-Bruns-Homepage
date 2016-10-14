@@ -42,3 +42,8 @@ a:visited{
     padding-left: 2.5%;
     padding-right: 2.5%;
 }
+
+.artVid{
+    width: 48%;
+    float:left;
+}
