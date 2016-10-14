@@ -4,6 +4,26 @@
 }
 
 #CenteredTitle{
-        text-align: center;
+    text-align: center;
 } 
 
+.linkRow{
+    float:left;
+    width: 20%;
+    list-style-type: none;
+}
+
+.mediaLinks{
+    float:left;
+    width: 33%;
+    list-style-type: none;
+}
+
+.headerLinks{
+    width: 95%;
+    height: 25px;
+    border:none;
+    overflow: hidden;
+    padding:0px;
+    margin: 0px;
+}
