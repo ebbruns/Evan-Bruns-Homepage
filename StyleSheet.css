@@ -19,6 +19,16 @@
     list-style-type: none;
 }
 
+a{
+    color:#00cc00;
+
+}
+
+a:visited{
+    color:#006600;
+
+}
+
 .headerLinks{
     width: 95%;
     height: 25px;
@@ -26,4 +36,9 @@
     overflow: hidden;
     padding:0px;
     margin: 0px;
+}
+
+.longTalk{
+    padding-left: 2.5%;
+    padding-right: 2.5%;
 }
