@@ -13,10 +13,23 @@
 
     <h1 id="CenteredTitle">Code Projects</h1>
 
+    <h3>Full-blown Projects</h3>
     <ul>
         <li><a href="https://github.com/ebbruns/Evan-Bruns-Homepage">This Website</a></li>
         <li><a href="https://github.com/ebbruns/golfScorer">GolfScorer Pro</a></li>
     </ul>
+
+    <h3>JavaScript Toys</h3>
+    <h4>Name Song</h4>
+
+    <form method="GET">
+        What is your name: <input type="text" size="20" id="myname" onkeydown="if (event.keyCode == 13)  document.getElementById('mybutton').click()" />
+        <input type="text" style="display: none;" />
+        <button type="button" id="mybutton">Submit</button>
+    </form>
+    <div id="nameSong"> </div>
+    <script src="hello.js"></script>
+
 
 </body>
 </html>
