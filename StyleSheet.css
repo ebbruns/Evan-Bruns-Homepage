@@ -11,12 +11,19 @@
     float:left;
     width: 20%;
     list-style-type: none;
+    height: 33%;
 }
 
 .mediaLinks{
+    margin-top:10%;
     float:left;
     width: 33%;
     list-style-type: none;
+}
+
+.mediaImg{
+    vertical-align:central;
+    width:33%
 }
 
 a{
