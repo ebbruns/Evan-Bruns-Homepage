@@ -14,6 +14,12 @@
     height: 33%;
 }
 
+p{
+    float:left;
+    padding-left: 2.5%;
+    padding-right: 27.5%;
+}
+
 .mediaLinks{
     margin-top:10%;
     float:left;
