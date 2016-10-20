@@ -61,6 +61,30 @@ a:visited{
     float:left;
 }
 
+#leftDiv{
+    width:50%;
+    height:70vh;
+    background-color:red;
+    float:left;
+    overflow:hidden;
+}
+
+#leftDiv:hover{
+    background-color:rgb(255, 25, 25);
+}
+
+#rightDiv{
+    width:50%;
+    height:70vh;
+    background-color:green;
+    float:right;
+    overflow:hidden;
+}
+
+#rightDiv:hover{
+    background-color:forestgreen
+}
+
 
 /*This animation code based on a kirupa.com CSS Animation Tutorial*/
 #hexagon {
